@@ -7,7 +7,7 @@ An emerging AI practitioner specializing in **large language models**. Passionat
 ## 🔥 Projects  
 Although my contributions were made before some of these projects were uploaded to GitHub, they are acknowledged in the README files of the repositories.
 
-- **[AI Accessibility Tool for Visually Impaired Users]([#](https://github.com/NafisSaleh/AI-Accessibility-Extension-For-Visually-Impaired-Users))** – AI-powered accessibility tool for visually impaired users, using a Transformer-based image captioning model and IBM Watson TTS.  
+- **[AI Accessibility Tool for Visually Impaired Users](https://github.com/NafisSaleh/AI-Accessibility-Extension-For-Visually-Impaired-Users)** – AI-powered accessibility tool for visually impaired users, using a Transformer-based image captioning model and IBM Watson TTS.  
 - **[Real-time Multimodal Emotion Recognition]([#](https://github.com/NafisSaleh/Multimodal-Emotion-Recognition-System))** – Fusion of facial and vocal emotion analysis for human-computer interaction, using OpenCV, PyTorch, and Librosa.  
 - **[TableLLM]([#](https://github.com/NafisSaleh/TableLLM))** – A project that explores the capabilities of small LLMs(Llama-3.1-8B and Qwen-2.5-7B) to answer questions from tabular data through prompt engineering and fine-tuning with Unsloth.
 - **[DNA Sequence Classification With Data Encoding]([#](https://github.com/NafisSaleh/DNA-Sequence-Classification-with-Data-Encoding))** – This project looks into the effectiveness of different encoding techniques for DNA sequence classification using Pandas, NumPy, SciPy, Scikit-Learn, and Matplotlib.  
